@@ -1,5 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/spaghetti", "destination": "/SpaghettiaBolonhesa/index21.html" }
-  ]
-}
